@@ -11,13 +11,6 @@ int main () {
 	}
 	else {
 		printf("Odd");
-	}
-	
-	/* instead of else we can also use this:
-	if (n!%2==0) {
-	printf("Odd");
-	}
-	*/  
-	
+	}	
 	return 0;
 }
