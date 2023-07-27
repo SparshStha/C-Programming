@@ -14,7 +14,7 @@ int main () {
 	}
 	
 	/* instead of else we can also use this:
-	if (n%2==1) {
+	if (n!%2==0) {
 	printf("Odd");
 	}
 	*/  
